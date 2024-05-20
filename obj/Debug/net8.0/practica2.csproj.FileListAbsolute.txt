@@ -1,0 +1,14 @@
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\bin\Debug\net8.0\practica2.exe
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\bin\Debug\net8.0\practica2.deps.json
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\bin\Debug\net8.0\practica2.runtimeconfig.json
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\bin\Debug\net8.0\practica2.dll
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\bin\Debug\net8.0\practica2.pdb
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\obj\Debug\net8.0\practica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\obj\Debug\net8.0\practica2.AssemblyInfoInputs.cache
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\obj\Debug\net8.0\practica2.AssemblyInfo.cs
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\obj\Debug\net8.0\practica2.csproj.CoreCompileInputs.cache
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\obj\Debug\net8.0\practica2.dll
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\obj\Debug\net8.0\refint\practica2.dll
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\obj\Debug\net8.0\practica2.pdb
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\obj\Debug\net8.0\practica2.genruntimeconfig.cache
+C:\Users\fernando\Documents\Universidad\Entrenamiento\Modulo VI\practica2\obj\Debug\net8.0\ref\practica2.dll
